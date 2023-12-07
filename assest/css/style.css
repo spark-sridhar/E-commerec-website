@@ -1,0 +1,22 @@
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-family: 'Jost', sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+
+.logo{
+    font-size: 35px;
+    color: black;
+    font-weight: 600;
+}
+.header-span{
+font-size: 45px;
+color: red;
+}
